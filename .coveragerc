@@ -1,0 +1,8 @@
+[run]
+   branch = True
+   source = teamcode
+   omit =
+      teamcode/tests/*
+
+[report]
+   ignore_errors = True
